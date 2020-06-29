@@ -1,6 +1,6 @@
-# Pre-work - tip
+# Pre-work - "tip"
 
-tip is a tip calculator application for iOS.
+"tip" is a tip calculator application for iOS.
 
 Submitted by: Gargi Tawde
 
