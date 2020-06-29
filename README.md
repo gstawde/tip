@@ -21,7 +21,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- Changed the icon to match the overall app
+- n/a
 
 ## Video Walkthrough 
 
